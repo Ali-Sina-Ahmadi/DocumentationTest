@@ -5,4 +5,5 @@
 * [My First Page](my-first-page.md)
 * [Shawn's Awesome Page](shawn-was-here/README.md)
   * [New Page within a Page](shawn-was-here/new-page-within-a-page.md)
+  * [Shawn's Page within a Page](shawn-was-here/shawns-page-within-a-page.md)
 
